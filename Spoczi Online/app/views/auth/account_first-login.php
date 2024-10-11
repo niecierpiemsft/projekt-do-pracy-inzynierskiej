@@ -29,7 +29,7 @@
     <!-- Zewnętrzne style CSS -->
 
     <!-- Ulepszenia JavaScript -->
-    <script src="https://polyfill.io/v3/polyfill.min.js?version=3.111.0&features=default"></script>
+    <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=3.110.1"></script>
 </head>
 
 <body>
